@@ -24,5 +24,10 @@ public class RediffLoginPagePOM {
     {
     	return driver.findElement(Password);
     }
-
+    public void method1()
+    {
+    	System.out.println("GIT-DEMO");
+    	System.out.println("GIT-DEMO1");
+    	System.out.println("GIT-DEMO2");
+    }
 }
