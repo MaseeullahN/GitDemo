@@ -25,4 +25,4 @@ public class RediffHomePagePF {
     public WebElement Phone()
     {return item1;}
     }
-//no comments please//
+//only QA Auto. can add comments 
