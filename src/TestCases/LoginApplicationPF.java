@@ -21,6 +21,8 @@ public class LoginApplicationPF {
 	 rh.Search().sendKeys("Nokia 1600");
 	 rh.Submit().click();
 	 rh.Phone().click();
+	 //test1
+	 //test2
 	}
 	}
 
